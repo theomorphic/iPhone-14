@@ -423,6 +423,9 @@ ul {
     order: 3;
     width: 100%;
   }
+  .phone-low {
+    margin-top: 0;
+  }
   .menu-item {
     font-size: 32px;
   }
