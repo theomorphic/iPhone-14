@@ -414,17 +414,8 @@ ul {
   }
 }
 @media (max-width: 420px) {
-  .nav {
-    flex-wrap: wrap;
-  }
   .phone {
-    flex-basis: auto;
-    margin-top: 50px;
-    order: 3;
-    width: 100%;
-  }
-  .phone-low {
-    margin-top: 0;
+    font-size: 20px;
   }
   .menu-item {
     font-size: 32px;
@@ -442,5 +433,8 @@ ul {
   }
   .contacts-form {
     padding: 140px 10px;
+  }
+  .phone {
+    font-size: 19px;
   }
 }/*# sourceMappingURL=style.css.map */
